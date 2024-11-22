@@ -6,7 +6,20 @@
 
 - During every class, follow along with sample code from the slides. All code that you should be running in Python is formatted as follows:
   
-  > If code in a slide looks like this, you should be running it to generate results.
+# I used Google colab to run the commands so there may be some code difference
+![alt text](image.png)
+![alt text](image-2.png)
+![alt text](image-3.png)
+![alt text](image-4.png)
+![alt text](image-5.png)
+![alt text](image-6.png)
+![alt text](image-7.png)
+![alt text](image-8.png)
+![alt text](image-10.png)
+![alt text](image-11.png)
+![alt text](image-12.png)
+![alt text](image-13.png)
+![alt text](image-14.png)
 
 - When there are individual or group activities in submodules, make notes of answers and key points from discussions
 - Following each lesson with code, submit a document (either .py or a Jupyter notebook) containing the functioning code from that day's lesson, along with any written notes or comments.
