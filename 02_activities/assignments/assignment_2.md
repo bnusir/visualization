@@ -9,26 +9,39 @@
     - You can find data visualizations at https://public.tableau.com/app/discover or https://datavizproject.com/, or anywhere else you like! 
 - For each visualization (good and bad):  
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
+      ![alt text](image-2.png)
+
+    ---------------------------------------------------------
+
+    ![alt text](image-1.png)
       ```
-      Your answer...
+       \
+       **CO2 Emissions** above is **a Good Example** for Data Visualization because: \
+      1. Itis simple appearance , 2 dimentional plot, not crowded with data \
+      2. Easy to understand that China is the largest contributor for CO2 Emissions \
+      3. One color is used, made it easy for our brain to process \
+      4. data labels is used for more clarity \
+      5. scale started from Zero, it is fair comparison \
+      6. Horizontal lines used instead of grid or none, that made it easy to figure out the levels \
+      CO2 Figure Source:https://www.polymersearch.com/blog/10-good-and-bad-examples-of-data-visualization \
+      \
+       **Electricity Price Change** is **Bad Example** for Data Visualization for: \
+      1. Different Scale is used for year 2013 than previous years \
+      2. Tailored to tell different story than real one. \ 
+      3. Biased toward **Mariano Rajoy** \
+      4. X-Scale was per year for years before 2013, then changed to quarter for 2013, misleading and confuzing. \
+      5. Confuzing type of bar charts used. 
 
-
-
-
-
-
-
-      ```
+    ```
     - How could this data visualization have been improved?  
-      ```
-      Your answer...
-
-
-
-
-
-
-      
+    ```
+   For the Bad example **( Electricity Price Change)**: \
+      1.Using Simple Bar Chart  \
+      2.Instead of plotting the percentage of change, plot real price for every kilowatt  \
+      3. Use same scale for all years (per Year), so Y2013 will judged fairly.  \
+      4. Use Horizontal Lines to make easier comparison \
+      5. Add data labels on top of each bar \
+      6. Use one color for all bars       \
       ```
 - Word count should not exceed (as a maximum) 500 words for each visualization (i.e. 
 300 words for your good example and 500 for your bad example)
