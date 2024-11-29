@@ -6,19 +6,75 @@
 - Let’s return to the data visualizations we evaluated for Assignment 2.  
 - For each visualization: 
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) whether or not you think this data visualization is accessible, reproducible, and equitable. 
-        ```
-        Your answer...
+![alt text](CO2-Example.png) 
 
+**Visualization 1: CO2 Emissions** \
+**Access:**\
+**Strengths:**
+* Easy to understand for most viewers because it is Bar graph.
+* Percentages appear in numbers above each bar, conveying clear numerical values.
 
+**Weaknesses:**
+* Red color used to all bars may not be accessible to users with color blindness 
+* No alternative labels in the graph for users working with screen readers. 
 
-        ```
-    - How could this data visualization have been improved (in terms of accessibility, reproducibility, equity)?  
-        ```
-        Your answer...
+**Reproducibility:** \
+**Strengths:**
+* Seems simple enough to replicate if data is available. 
 
+**Weaknesses:**
+* No citation to the original data source is provided that limits reproducibility. 
+* It is unclear if this data represents annual emissions, or emissions per capita. 
 
+**Equity:** \
+**Strengths:** 
+* Includes a broad range of countries (China, US, EEA, etc.). 
 
-        ```
+**Weaknesses:** 
+* "The Other" category is too general, at 31.5%, and overshadows the contribution of smaller nations. This masks the role of countries with significant individual contributions.  
+
+**Question-2 - Recommendation -CO2-Example1** \
+**Recommendations for Improvement:** 
+* Making the color palette colorblind accessible (by not using red or green colors) 
+* Adding a title or subtitle that clearly indicates whether this is annual, or per capita CO2 emissions. 
+* Adding a citation for where the data comes from. 
+* Breaking the "Other" category down into subregions  \
+![alt text](Electricity-Example-2.png)
+
+**Visualization 2: Change in Electricity Price**\
+**Accessibility:**\
+**Strengths:**
+* Bars are coloured using a two-tone scheme to show the two different political eras, hence allowing good readability of information visually.
+
+**Weaknesses:**
+
+* There is no legend or explanation on the meanings of the two colour shades; this is determined from the labels only.
+* Grayscale scheme may be difficult to read for certain cases of visual impairments
+* Labels, particularly the small percentages and years in the graph are difficult to read by low vision users.
+
+**Reproducibility:**
+
+**Strengths:**
+* Data appears segmented by year, allowing for easy reproduction if raw data is available.
+
+**Weaknesses:**
+* The source of the data is not provided; thus, the analysis can neither be validated nor reproduced.
+
+**Equity:**
+
+**Strengths:**
+* An attempt to relate changes in prices to political leadership does provide some equitable context, if supported properly.
+
+**Weaknesses:**
+* Lack of context or explanation on what might drive changes-for example, external factors such as economic crises or global oil prices.
+
+**Question-2 - Recommendation Change in Electricity Price Example2**
+
+**Recommendations for Improvement:**
+* Adding a legend describing what two shaded bars represent, namely Zapatero and Rajoy periods.
+* Using an accessible color palette instead of grayscale to help differentiate the two. 
+* Adding source reference so data appears credible. 
+* Adding context for what happened on big drop such as April 2013.
 
 - Word count should not exceed (as a maximum) 300 words for each visualization. 
 
